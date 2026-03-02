@@ -14,7 +14,7 @@ Tools interaktif berbasis Node.js untuk mengelola database MySQL melalui termina
 - Koneksi fleksibel (lokal/remote)
 
 ## Cara Penggunaan
-1. Clone repositori `https://github.com/nflora-ux/Operating-System-MySQL.git`.
+1. Clone repositori `https://github.com/nflora-ux/Operating-System-MySQL-v1.git`.
 2. inisialisasi Node.js `npm init -y` (opsional).
 3. Jalankan perintah `npm install mysql2` untuk menginstal dependensi.
 4. Jalankan aplikasi dengan perintah `node OSM.js`.
@@ -27,5 +27,6 @@ Tools interaktif berbasis Node.js untuk mengelola database MySQL melalui termina
 MIT License
 
 <div align="center">
-© Powered By Neverlabs.
+© 2026 Neverlabs. All right reserved.
 </div>
+
