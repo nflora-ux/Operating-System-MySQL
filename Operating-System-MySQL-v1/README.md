@@ -37,8 +37,5 @@ Tools interaktif berbasis Node.js untuk mengelola database MySQL melalui termina
 MIT License
 
 <div align="center">
-© 2026 MySQL Operations Tool v1. All right reserved.
+<b>© 2026</b> <i>MySQL Operations Tool v1</i>. All right reserved.
 </div>
-
-
-
