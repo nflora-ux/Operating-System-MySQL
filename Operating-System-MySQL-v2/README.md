@@ -50,7 +50,5 @@ Versi 2 menghadirkan antarmuka yang lebih modern dan interaktif dengan dukungan 
 MIT License
 
 <div align="center">
-© 2026 Neverlabs. All right reserved.
+© 2026 MySQL Operations Tool v2. All right reserved.
 </div>
-
-<div align="center"> <sub>Dibuat dengan ❤️ oleh <strong>Neverlabs</strong></sub> <br> <sub>© 2026 Neverlabs. All rights reserved.</sub> <br> <sub>Versi 2 – Operating System MySQL</sub> </div>
