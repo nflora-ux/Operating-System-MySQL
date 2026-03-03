@@ -53,6 +53,4 @@ MIT License
 © 2026 Neverlabs. All right reserved.
 </div>
 
-```
 <div align="center"> <sub>Dibuat dengan ❤️ oleh <strong>Neverlabs</strong></sub> <br> <sub>© 2026 Neverlabs. All rights reserved.</sub> <br> <sub>Versi 2 – Operating System MySQL</sub> </div>
-```
