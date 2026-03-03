@@ -27,9 +27,32 @@ Versi 2 menghadirkan antarmuka yang lebih modern dan interaktif dengan dukungan 
    ```
 2. Masuk ke direktori proyek dan instal dependensi:
    ```bash
-   cd Operating-System-MySQL-v2
+   cd Operating-System-MySQL/Operating-System-MySQL-v2
    ```
    ```bash
    npm install
    ```
-4. Jalankan aplikasi:
+3. Jalankan aplikasi:
+   ```bash
+   node OSM.js
+   ```
+4. Ikuti petunjuk interaktif yang muncul di terminal.
+
+## Persyaratan Sistem
+- Node.js versi 14 atau lebih baru
+- MySQL server (lokal atau remote) – pastikan service MySQL aktif (misal melalui XAMPP untuk lokal)
+
+## Teknologi yang Digunakan:
+- mysql2 – koneksi database MySQL yang cepat dan aman
+- inquirer – antarmuka interaktif untuk input pengguna
+
+## Lisensi
+MIT License
+
+<div align="center">
+© 2026 Neverlabs. All right reserved.
+</div>
+
+```
+<div align="center"> <sub>Dibuat dengan ❤️ oleh <strong>Neverlabs</strong></sub> <br> <sub>© 2026 Neverlabs. All rights reserved.</sub> <br> <sub>Versi 2 – Operating System MySQL</sub> </div>
+```
