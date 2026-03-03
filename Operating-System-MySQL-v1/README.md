@@ -2,7 +2,7 @@
   <img src="https://github.com/nflora-ux/Operating-System-MySQL/raw/ced1238a19c90e74deec97c6a35b6eba39b2f8c8/Operating-System-MySQL-v1/Screenshot.png" alt="Screenshot" width="600">
 </div>
 
-# MySQL Operations Tool
+# MySQL Operations Tool v1
 
 Tools interaktif berbasis Node.js untuk mengelola database MySQL melalui terminal.
 
@@ -14,11 +14,21 @@ Tools interaktif berbasis Node.js untuk mengelola database MySQL melalui termina
 - Koneksi fleksibel (lokal/remote)
 
 ## Cara Penggunaan
-1. Clone repositori `https://github.com/nflora-ux/Operating-System-MySQL-v1.git`.
-2. inisialisasi Node.js `npm init -y` (opsional).
-3. Jalankan perintah `npm install mysql2` untuk menginstal dependensi.
-4. Jalankan aplikasi dengan perintah `node OSM.js`.
-5. Ikuti petunjuk interaktif yang muncul di terminal.
+1. Clone repositori:
+   ```bash
+   https://github.com/nflora-ux/Operating-System-MySQL-v1.git
+   ```
+2. Masuk ke direktori proyek dan instal dependensi:
+   ```bash
+   cd Operating-System-MySQL/Operating-System-MySQL-v1
+   ```
+3. inisialisasi Node.js `npm init -y` (opsional).
+4. Jalankan perintah `npm install` dan `npm install mysql2` untuk menginstal dependensi.
+5. Jalankan aplikasi:
+   ```bash
+   node OSM.js
+   ```
+6. Ikuti petunjuk interaktif yang muncul di terminal.
 
 ## Catatan penting
 - Aktifkan `Apache` dan `MySQL` di XAMPP terlebih dahulu sebelum menggunakan (untuk penggunaan lokal)
@@ -27,7 +37,8 @@ Tools interaktif berbasis Node.js untuk mengelola database MySQL melalui termina
 MIT License
 
 <div align="center">
-© 2026 Neverlabs. All right reserved.
+© 2026 MySQL Operations Tool v1. All right reserved.
 </div>
+
 
 
