@@ -50,5 +50,5 @@ Versi 2 menghadirkan antarmuka yang lebih modern dan interaktif dengan dukungan 
 MIT License
 
 <div align="center">
-© 2026 <b>MySQL Operations Tool v2</b>. All right reserved.
+<b>© 2026</b> <strong>MySQL Operations Tool v2</strong>. All right reserved.
 </div>
