@@ -49,6 +49,8 @@ Setiap folder menyimpan versi yang berbeda, dari yang paling awal hingga yang te
 - Belajar dari praktik nyata – cocok untuk developer yang ingin memahami perbedaan pendekatan.
 - Plug and play – setiap versi siap pakai tanpa konfigurasi rumit.
 
+---
+
 <div align="center">
 <b>© 2026</b> <i>MySQL Operations Tool</i>. All right reserved.
 </div>
