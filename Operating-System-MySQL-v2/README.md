@@ -23,7 +23,7 @@ Versi 2 menghadirkan antarmuka yang lebih modern dan interaktif dengan dukungan 
 ## Cara Penggunaan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/nflora-ux/Operating-System-MySQL-v2.git
+   git clone https://github.com/nflora-ux/Operating-System-MySQL.git
    ```
 2. Masuk ke direktori proyek dan instal dependensi:
    ```bash
