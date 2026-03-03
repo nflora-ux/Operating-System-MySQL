@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nflora-ux/Operating-System-MySQL-v2/raw/main/Screenshot.png" alt="Screenshot OSM v2" width="600">
+  <img src="https://github.com/nflora-ux/Operating-System-MySQL/raw/24d26795cf53fb9104f7b85056a7ad95ebca98e8/Operating-System-MySQL-v2/Screenshot.png" alt="Screenshot OSM v2" width="600">
 </div>
 
 # MySQL Operations Tool v2
